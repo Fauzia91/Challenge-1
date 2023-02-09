@@ -55,6 +55,19 @@ figure {
     background-size: cover;
     background-position: center;
 }
+
+main h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+
+}
+
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 main article {
     margin-bottom: 20px;
     padding: 50px;
@@ -63,6 +76,11 @@ main article {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+main img {
+    max-height: 200px;
+}
+
 
 .float-left {
     float: left;
@@ -74,11 +92,7 @@ main article {
     margin-left: 25px;
 }
 
-main {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
+
 
 aside {
     margin-right: 20px;
@@ -107,23 +121,7 @@ aside article img {
     max-width: 150px;
 }
 
-main article {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
-main img {
-    max-height: 200px;
-}
-
-main h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 footer {
     padding: 30px;
